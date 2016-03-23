@@ -13,10 +13,7 @@ import javax.swing.table.DefaultTableModel;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Qiang
- */
+ 
 public class ResultsGUI extends javax.swing.JFrame {
 
     /**

@@ -9,10 +9,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Qiang
- */
+ 
 public class SearchAPP {
      private static Connection conn=DatabaseConnect.ConnerDb();
      private static ResultSet rs=null;

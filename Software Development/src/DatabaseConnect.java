@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Qiang
- */
+ 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

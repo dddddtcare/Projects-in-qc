@@ -17,10 +17,7 @@ import javax.swing.*;
 
 
 
-/**
- *
- * @author Qiang
- */
+ 
 public class SearchGUI extends javax.swing.JFrame {
     private static Connection conn=DatabaseConnect.ConnerDb();
     private static ResultSet rs=null;
@@ -195,7 +192,7 @@ public class SearchGUI extends javax.swing.JFrame {
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pics/craigslistdealers.png"))); // NOI18N
 
-        jLabel5.setText("Coding by Qiang Dong");
+         
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

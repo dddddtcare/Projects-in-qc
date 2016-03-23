@@ -14,10 +14,7 @@ import net.proteanit.sql.DbUtils;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Qiang
- */
+ 
 public class AdsManagementGUI extends javax.swing.JFrame {
 private static Connection conn=DatabaseConnect.ConnerDb();
 ResultSet rs=null;

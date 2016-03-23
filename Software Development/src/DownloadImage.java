@@ -11,10 +11,7 @@ import java.net.URL;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Qiang
- */
+ 
 public class DownloadImage {
     
     public static void getImage(String s, String ad_id){
